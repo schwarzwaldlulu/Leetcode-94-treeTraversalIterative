@@ -1,9 +1,7 @@
-# Leetcode-94-treeTraversalIterative
-94. Binary Tree Inorder Traversal
+# Leetcode-94. Binary Tree Inorder Traversal
+# Tree inorder traversal using 2 methodes recursively and iteratively
 
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
-
- 
 
 Example 1:
 
@@ -30,7 +28,6 @@ Example 5:
 Input: root = [1,null,2]
 Output: [1,2]
 
- 
 
 Constraints:
 
